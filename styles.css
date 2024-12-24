@@ -131,6 +131,10 @@ footer {
     justify-content: center;
 }
 
+.disclaimer {
+    font-size: 1;
+}
+
 /* Mobile-First Design */
 @media only screen and (max-width: 768px) {
     body {
