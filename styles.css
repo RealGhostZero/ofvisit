@@ -131,7 +131,7 @@ footer {
     justify-content: center;
 }
 
-.disclaimer {
+.disclaimer p{
     font-size: 1px;
     color: red;
 }
